@@ -1,7 +1,5 @@
 APClips
 Coders Rank
-CyberDefenders
-Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
@@ -17,7 +15,7 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Topcoder
+Strava
 Weblate
 YandexMusic
 kaskus
