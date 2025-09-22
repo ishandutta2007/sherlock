@@ -15,10 +15,8 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Strava
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
