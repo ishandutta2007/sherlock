@@ -4,7 +4,6 @@ GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -12,9 +11,9 @@ PocketStars
 Reddit
 Roblox
 RocketTube
+SlideShare
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 kaskus
