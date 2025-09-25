@@ -1,9 +1,10 @@
 APClips
-Coders Rank
+Chess
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
 LushStories
 Mydramalist
 PepperIT
@@ -12,11 +13,14 @@ Reddit
 Roblox
 RocketTube
 SlideShare
+SoylentNews
 Splice
 Spotify
+Topcoder
 Weblate
 YandexMusic
 kaskus
 opennet
 svidbook
 threads
+xHamster
