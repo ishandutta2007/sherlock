@@ -1,5 +1,4 @@
 APClips
-Chess
 GNOME VCS
 Giphy
 HackerEarth
@@ -13,14 +12,11 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-SoylentNews
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
-xHamster
