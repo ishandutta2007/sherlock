@@ -1,11 +1,14 @@
 APClips
 BoardGameGeek
+CGTrader
+Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
 LushStories
-Mydramalist
 PepperIT
 PocketStars
 Reddit
@@ -21,3 +24,4 @@ kaskus
 opennet
 svidbook
 threads
+xHamster
