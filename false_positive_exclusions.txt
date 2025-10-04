@@ -1,16 +1,17 @@
 APClips
 BoardGameGeek
-CGTrader
 Coders Rank
+CyberDefenders
 DeviantArt
+Freelancer
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 Roblox
 RocketTube
@@ -21,7 +22,7 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
+nnRU
 opennet
 svidbook
 threads
-xHamster
