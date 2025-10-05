@@ -1,9 +1,7 @@
 APClips
 BoardGameGeek
 Coders Rank
-CyberDefenders
 DeviantArt
-Freelancer
 GNOME VCS
 Giphy
 HackerEarth
@@ -11,18 +9,13 @@ Heavy-R
 LushStories
 PepperIT
 PocketStars
-Rajce.net
 Reddit
-Roblox
 RocketTube
-SlideShare
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
 kaskus
-nnRU
 opennet
 svidbook
-threads
