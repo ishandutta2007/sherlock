@@ -1,5 +1,4 @@
 APClips
-BoardGameGeek
 Coders Rank
 DeviantArt
 GNOME VCS
