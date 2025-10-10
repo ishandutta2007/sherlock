@@ -1,5 +1,6 @@
 APClips
 Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
@@ -15,5 +16,4 @@ Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
