@@ -1,5 +1,5 @@
 APClips
-DeviantArt
+Freelancer
 GNOME VCS
 Giphy
 HackerEarth
@@ -11,9 +11,9 @@ Reddit
 RocketTube
 Splice
 Spotify
-Strava
 Topcoder
 Weblate
+YandexMusic
 opennet
 svidbook
-xHamster
+threads
