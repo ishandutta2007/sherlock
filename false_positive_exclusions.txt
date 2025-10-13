@@ -1,9 +1,12 @@
 APClips
-Freelancer
+Coders Rank
+DeviantArt
+Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
 LushStories
 PepperIT
 PocketStars
@@ -16,4 +19,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
-threads
+xHamster
