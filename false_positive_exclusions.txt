@@ -1,17 +1,18 @@
 APClips
-Audiojungle
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
 Heavy-R
-LessWrong
+Itch.io
 LushStories
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Topcoder
 Weblate
 YandexMusic
-opennet
+programming.dev
 svidbook
