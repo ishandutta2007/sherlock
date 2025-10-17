@@ -1,7 +1,10 @@
 APClips
+Audiojungle
+Coders Rank
+Cults3D
+DeviantArt
 GNOME VCS
 Giphy
-Heavy-R
 LushStories
 PocketStars
 Reddit
@@ -10,4 +13,8 @@ Splice
 Spotify
 Topcoder
 Weblate
+YandexMusic
+opennet
+phpRU
 svidbook
+xHamster
