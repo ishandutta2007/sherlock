@@ -1,16 +1,15 @@
 APClips
+BreachSta.rs Forum
 Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-LushStories
+GitHub
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Splice
 Spotify
-Tiendanube
 Topcoder
 Weblate
 YandexMusic
