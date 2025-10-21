@@ -1,15 +1,15 @@
 APClips
-BreachSta.rs Forum
-Carbonmade
+Coders Rank
+Freelancer
 GNOME VCS
 Giphy
 LushStories
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 svidbook
