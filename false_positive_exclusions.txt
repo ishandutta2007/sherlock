@@ -1,13 +1,13 @@
 APClips
+BitBucket
 Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
+LiveJournal
 LushStories
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
 Weblate
