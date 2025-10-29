@@ -1,7 +1,4 @@
 APClips
-Academia.edu
-Carbonmade
-Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
@@ -11,8 +8,8 @@ Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 opennet
 svidbook
+threads
