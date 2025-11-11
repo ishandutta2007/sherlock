@@ -5,15 +5,13 @@ DeviantArt
 GNOME VCS
 Giphy
 LushStories
-Minecraft
 PocketStars
-Rajce.net
 Reddit
 RocketTube
-Slashdot
 Splice
 Spotify
-Strava
 Trovo
 Weblate
+YandexMusic
+opennet
 svidbook
