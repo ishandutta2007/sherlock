@@ -8,11 +8,11 @@ LushStories
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
+opennet
+phpRU
 svidbook
-xHamster
