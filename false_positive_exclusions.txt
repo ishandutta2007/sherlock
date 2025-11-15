@@ -1,6 +1,8 @@
 APClips
 Archive.org
+Audiojungle
 Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 LushStories
@@ -8,12 +10,13 @@ Minecraft
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
+Trovo
 Weblate
-Wordnik
 YandexMusic
+hunting
 opennet
 phpRU
 svidbook
+xHamster
