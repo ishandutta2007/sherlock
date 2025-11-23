@@ -1,12 +1,8 @@
 APClips
 Archive.org
-BoardGameGeek
-Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
-Itch.io
-LiveJournal
 LushStories
 PocketStars
 Reddit
@@ -16,6 +12,7 @@ Spotify
 Trovo
 Weblate
 YandexMusic
+nnRU
 opennet
 svidbook
 xHamster
