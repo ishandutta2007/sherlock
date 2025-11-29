@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Coders Rank
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -13,4 +12,6 @@ Splice
 Spotify
 Weblate
 YandexMusic
+opennet
 svidbook
+xHamster
