@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Coders Rank
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -14,4 +15,3 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
