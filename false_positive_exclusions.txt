@@ -1,16 +1,17 @@
 APClips
 Archive.org
-BoardGameGeek
 Coders Rank
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+Hubski
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
+Scribd
+SlideShare
 Splice
 Spotify
 Trovo
