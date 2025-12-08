@@ -1,16 +1,22 @@
 APClips
 Archive.org
+CGTrader
 Code Snippet Wiki
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
 LushStories
 PocketStars
+Rajce.net
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
+Trovo
 Weblate
 YandexMusic
 opennet
