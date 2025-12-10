@@ -11,6 +11,7 @@ LushStories
 PocketStars
 Reddit
 RocketTube
+RuneScape
 Splice
 Spotify
 Trovo
