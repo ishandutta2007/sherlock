@@ -3,6 +3,7 @@ Archive.org
 Code Snippet Wiki
 Coders Rank
 DeviantArt
+Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -13,9 +14,9 @@ Reddit
 RocketTube
 Splice
 Spotify
+Trello
 Trovo
 Weblate
 YandexMusic
-opennet
 svidbook
 xHamster
