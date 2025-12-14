@@ -1,9 +1,9 @@
 APClips
 Archive.org
 Code Snippet Wiki
+Coders Rank
 DeviantArt
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
@@ -16,6 +16,7 @@ Spotify
 Trovo
 Vero
 Weblate
+Wordnik
 YandexMusic
 opennet
 svidbook
