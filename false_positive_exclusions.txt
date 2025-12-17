@@ -1,21 +1,20 @@
 APClips
 Archive.org
+CGTrader
 Code Snippet Wiki
-DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
 SlideShare
 Splice
 Spotify
-Trovo
-TryHackMe
 Weblate
 YandexMusic
 opennet
