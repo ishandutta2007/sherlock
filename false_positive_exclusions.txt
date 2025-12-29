@@ -1,26 +1,22 @@
 APClips
-Archive.org
 Code Snippet Wiki
-DeviantArt
-Eintracht Frankfurt Forum
 Fandom
-Flipboard
-Freelancer
+GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
 Minecraft
+OurDJTalk
 PocketStars
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
-Trovo
 Weblate
+YandexMusic
 opennet
 phpRU
 svidbook
