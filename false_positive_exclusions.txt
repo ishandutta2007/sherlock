@@ -1,4 +1,5 @@
 APClips
+Archive.org
 Code Snippet Wiki
 Fandom
 GNOME VCS
@@ -6,12 +7,11 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
-OurDJTalk
 PocketStars
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
