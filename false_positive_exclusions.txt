@@ -1,11 +1,16 @@
 APClips
 Archive.org
+Blogger
 Code Snippet Wiki
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+Gumroad
 Hubski
+Itch.io
+LushStories
+OurDJTalk
 PocketStars
 Reddit
 RocketTube
@@ -19,3 +24,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
