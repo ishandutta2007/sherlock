@@ -15,11 +15,13 @@ Reddit
 RocketTube
 Scribd
 SlideShare
+Smule
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
+eintracht
 mercadolivre
 opennet
 phpRU
