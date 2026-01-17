@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Blogger
 Code Snippet Wiki
 DeviantArt
 Fandom
@@ -8,7 +7,7 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
+Itch.io
 Minecraft
 PocketStars
 Realmeye
@@ -26,3 +25,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
