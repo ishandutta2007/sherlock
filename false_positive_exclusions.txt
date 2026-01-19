@@ -1,5 +1,6 @@
 APClips
 Archive.org
+Chess
 Code Snippet Wiki
 Fandom
 GNOME VCS
