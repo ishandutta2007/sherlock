@@ -2,15 +2,12 @@ APClips
 Archive.org
 Code Snippet Wiki
 DeviantArt
-Discord
-Dribbble
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hubski
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -18,12 +15,13 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-xHamster
