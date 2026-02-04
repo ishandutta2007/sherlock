@@ -1,12 +1,11 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Dribbble
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
-Gumroad
 Hubski
 LushStories
 PocketStars
@@ -18,8 +17,11 @@ SlideShare
 Smule
 Splice
 Spotify
+Strava
+Trovo
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 mercadolivre
 opennet
