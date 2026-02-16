@@ -1,7 +1,6 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Cracked Forum
 DeviantArt
 Fandom
 GNOME VCS
@@ -9,7 +8,6 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -22,7 +20,6 @@ Spotify
 Trovo
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 mercadolivre
 opennet
