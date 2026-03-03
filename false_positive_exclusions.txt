@@ -9,14 +9,13 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Patched
+Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
@@ -24,7 +23,9 @@ Spotify
 Trovo
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
