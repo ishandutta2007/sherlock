@@ -1,9 +1,7 @@
 APClips
 Archive.org
 Codolio
-Cults3D
 DeviantArt
-Fosstodon
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -22,16 +20,14 @@ Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Strava
 Trovo
 TryHackMe
 Weblate
-WordPress
 YandexMusic
 mercadolivre
-opennet
+nnRU
 phpRU
 svidbook
