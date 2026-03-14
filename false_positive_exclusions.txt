@@ -1,8 +1,7 @@
 APClips
 Archive.org
-Carbonmade
 Codolio
-DeviantArt
+Eintracht Frankfurt Forum
 GNOME VCS
 GeeksforGeeks
 Giphy
@@ -10,9 +9,10 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 PocketStars
-Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -23,14 +23,10 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
-Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
-xHamster
