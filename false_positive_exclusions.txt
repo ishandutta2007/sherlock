@@ -1,8 +1,9 @@
 APClips
+Archive.org
 Codolio
-DeviantArt
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
 LessWrong
@@ -19,7 +20,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
