@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Audiojungle
 Codolio
 DeviantArt
 GeeksforGeeks
@@ -9,7 +8,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Pornhub
@@ -19,7 +17,6 @@ Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
