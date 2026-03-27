@@ -1,14 +1,14 @@
 APClips
 Archive.org
+Chess
 Codolio
+DeviantArt
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LemmyWorld
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Pornhub
@@ -16,6 +16,7 @@ Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -26,7 +27,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
+xHamster
