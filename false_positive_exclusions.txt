@@ -1,13 +1,14 @@
 APClips
 Archive.org
-Audiojungle
+BoardGameGeek
 Codolio
 DeviantArt
-Freesound
+DigitalSpy
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
 Patched
 PocketStars
