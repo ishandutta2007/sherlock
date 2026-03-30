@@ -1,6 +1,5 @@
 APClips
 Archive.org
-BoardGameGeek
 Codolio
 DeviantArt
 DigitalSpy
@@ -27,6 +26,8 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
+eintracht
+interpals
 mercadolivre
 opennet
 phpRU
