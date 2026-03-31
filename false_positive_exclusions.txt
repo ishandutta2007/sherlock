@@ -1,8 +1,10 @@
+7Cups
 APClips
 Archive.org
 Codolio
+Cracked Forum
 DeviantArt
-DigitalSpy
+Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
@@ -12,10 +14,12 @@ LushStories
 Patched
 PocketStars
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -26,7 +30,6 @@ Trovo
 TryHackMe
 Weblate
 YandexMusic
-eintracht
 interpals
 mercadolivre
 opennet
