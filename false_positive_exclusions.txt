@@ -1,8 +1,8 @@
 7Cups
 APClips
+Academia.edu
 Archive.org
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 GeeksforGeeks
@@ -13,8 +13,6 @@ LessWrong
 LushStories
 Patched
 PocketStars
-Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -35,4 +33,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
