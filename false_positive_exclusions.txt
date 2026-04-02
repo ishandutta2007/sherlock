@@ -1,6 +1,5 @@
 7Cups
 APClips
-Academia.edu
 Archive.org
 Codolio
 DeviantArt
@@ -9,15 +8,14 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
-LushStories
 Patched
 PocketStars
 Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
