@@ -1,11 +1,8 @@
 7Cups
 APClips
 Archive.org
-Audiojungle
 Bandcamp
-BoardGameGeek
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 GeeksforGeeks
@@ -14,10 +11,8 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -26,7 +21,6 @@ Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
@@ -38,4 +32,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
