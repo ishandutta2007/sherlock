@@ -2,8 +2,11 @@
 APClips
 Archive.org
 Bandcamp
+BoardGameGeek
 Codolio
+DeviantArt
 Discord.bio
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -22,6 +25,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
