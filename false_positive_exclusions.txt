@@ -2,19 +2,19 @@
 APClips
 Apple Discussions
 Archive.org
-Audiojungle
 Bandcamp
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
+OurDJTalk
+Patched
 PocketStars
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -25,7 +25,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
