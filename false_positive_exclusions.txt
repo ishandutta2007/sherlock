@@ -13,13 +13,12 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -30,6 +29,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+YandexMusic
 dailykos
 interpals
 mercadolivre
