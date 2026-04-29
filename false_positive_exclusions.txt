@@ -9,6 +9,7 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Hubski
 LessWrong
@@ -18,7 +19,6 @@ Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -27,7 +27,6 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 dailykos
