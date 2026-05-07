@@ -3,6 +3,7 @@ APClips
 Airliners
 Apple Discussions
 Archive.org
+Audiojungle
 Bandcamp
 Codolio
 DeviantArt
@@ -30,8 +31,11 @@ Velomania
 Weblate
 YandexMusic
 dailykos
+igromania
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
+threads
