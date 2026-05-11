@@ -12,6 +12,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 Motherless
 Patched
 Pornhub
@@ -25,7 +26,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
