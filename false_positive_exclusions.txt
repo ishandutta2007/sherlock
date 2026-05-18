@@ -4,15 +4,15 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
-Chess
+CGTrader
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Minecraft
 Patched
 Pornhub
 Rarible
@@ -38,3 +38,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
