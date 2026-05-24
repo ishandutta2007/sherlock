@@ -3,14 +3,18 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+Carbonmade
 Codolio
+DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Patched
 Rarible
 Realmeye
@@ -23,6 +27,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
