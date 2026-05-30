@@ -15,8 +15,6 @@ Hubski
 LessWrong
 Minecraft
 Patched
-Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -41,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
