@@ -6,9 +6,11 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GeeksforGeeks
 Giphy
 HackenProof (Hackers)
@@ -41,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
