@@ -6,11 +6,9 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
-Flipboard
 GeeksforGeeks
 Giphy
 HackenProof (Hackers)
@@ -29,7 +27,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -43,3 +40,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
