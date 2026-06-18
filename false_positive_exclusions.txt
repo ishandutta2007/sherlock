@@ -5,7 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Codolio
 Discord.bio
 Envato Forum
@@ -39,3 +38,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
