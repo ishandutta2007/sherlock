@@ -5,21 +5,18 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
 BreachSta.rs Forum
-CGTrader
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
-HackerRank
+GitHub
 Hashnode
 Houzz
 Hubski
 LessWrong
-LiveJournal
 Minecraft
 Odysee
 PCGamer
@@ -33,9 +30,9 @@ RocketTube
 Scribd
 Shelf
 SlideShare
-Snapchat
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
