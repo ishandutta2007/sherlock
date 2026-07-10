@@ -12,7 +12,6 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Houzz
 Hubski
@@ -45,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
