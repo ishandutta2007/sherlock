@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -19,7 +18,6 @@ LessWrong
 Minecraft
 Odysee
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -33,6 +31,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Valorant Forums
 Velomania
 Weblate
 YandexMusic
@@ -44,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
