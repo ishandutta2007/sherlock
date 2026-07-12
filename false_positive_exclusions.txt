@@ -15,10 +15,9 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-Minecraft
 Odysee
 PCGamer
-Pornhub
+Patched
 Rarible
 Realmeye
 Reddit
@@ -31,16 +30,13 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Valorant Forums
 Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
