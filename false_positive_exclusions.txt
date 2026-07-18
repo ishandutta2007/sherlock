@@ -16,7 +16,6 @@ Hubski
 LessWrong
 Odysee
 PCGamer
-Patched
 Rarible
 Realmeye
 Reddit
@@ -34,6 +33,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 igromania
 interpals
 mercadolivre
