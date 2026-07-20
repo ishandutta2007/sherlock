@@ -3,6 +3,7 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
@@ -28,6 +29,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
