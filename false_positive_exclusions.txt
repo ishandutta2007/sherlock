@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -7,6 +8,7 @@ Bandcamp
 Codolio
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -16,7 +18,6 @@ LessWrong
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -27,6 +28,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trakt
 Trovo
 TryHackMe
@@ -41,3 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
