@@ -3,17 +3,20 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive of Our Own
 Archive.org
 Bandcamp
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
+GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -31,7 +34,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -42,4 +44,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
