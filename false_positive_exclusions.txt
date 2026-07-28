@@ -3,9 +3,9 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 Bandcamp
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -14,9 +14,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
-Minecraft
+NICommunityForum
 Odysee
 PCGamer
 Patched
@@ -26,7 +25,6 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-Scribd
 Shelf
 SlideShare
 Splice
@@ -44,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
