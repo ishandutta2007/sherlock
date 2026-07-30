@@ -16,6 +16,7 @@ Giphy
 Hashnode
 Hubski
 Instapaper
+Itch.io
 LessWrong
 Odysee
 PCGamer
@@ -38,10 +39,10 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
