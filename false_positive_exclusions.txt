@@ -15,11 +15,10 @@ F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
 Instapaper
-Itch.io
 LessWrong
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -34,8 +33,10 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
