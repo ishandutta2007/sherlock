@@ -17,7 +17,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LessWrong
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -30,6 +30,7 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
@@ -46,4 +47,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
