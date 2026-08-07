@@ -28,13 +28,13 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+Scribd
 Shelf
 SlideShare
 Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -45,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
