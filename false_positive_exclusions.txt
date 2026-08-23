@@ -17,6 +17,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Odysee
 PCGamer
 Pornhub
@@ -43,8 +44,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
-xHamster
