@@ -13,6 +13,7 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
@@ -34,7 +35,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
