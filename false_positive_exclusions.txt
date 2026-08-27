@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
+Championat
 Chatujme.cz
 Codolio
 DeviantArt
@@ -13,12 +14,10 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
 PCGamer
 Rarible
@@ -35,7 +34,9 @@ Spotify
 Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
