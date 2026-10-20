@@ -5,10 +5,8 @@ Apple Discussions
 Archive.org
 Bandcamp
 CGTrader
-Carbonmade
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -22,11 +20,9 @@ Houzz
 Hubski
 Instapaper
 Linktree
-LiveJournal
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -37,6 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Weblate
