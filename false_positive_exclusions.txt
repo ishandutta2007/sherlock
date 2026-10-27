@@ -1,15 +1,13 @@
-7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
-DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
@@ -21,7 +19,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
 ObservableHQ
 Odysee
