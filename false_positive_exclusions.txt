@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -19,6 +20,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 ObservableHQ
 Odysee
@@ -48,4 +50,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
