@@ -15,15 +15,16 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitHub
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
 ObservableHQ
 Odysee
+Outgress
 PCGamer
 Rarible
 Realmeye
@@ -50,3 +51,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
