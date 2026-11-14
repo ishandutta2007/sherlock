@@ -14,8 +14,6 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -24,7 +22,6 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
@@ -34,7 +31,6 @@ Trakt
 TryHackMe
 Velomania
 Vero
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -43,6 +39,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
