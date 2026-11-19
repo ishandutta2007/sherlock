@@ -4,19 +4,19 @@ Apple Developer
 Apple Discussions
 Archive.org
 Blogger
-Championat
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
 Hubski
 Instapaper
+LibraryThing
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -28,9 +28,11 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
+Signal
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
