@@ -8,19 +8,16 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
 Hubski
 Instapaper
-LibraryThing
 Linktree
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -28,7 +25,6 @@ ReverbNation
 RocketTube
 Scribd
 Shelf
-Signal
 SlideShare
 Splice
 Spotify
